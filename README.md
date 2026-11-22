@@ -24,8 +24,8 @@ I am a 3rd-year undergraduate student at **GLA University** (CPI 8.7) and spent 
 ### 📊 LeetCode Problem Solving Stats
 
 <p align="center">
-  <a href="https://leetcode.com/ShubhamJain17r" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/ShubhamJain17r?theme=dark&font=JetBrains%20Mono&ext=activity" alt="Shubham's LeetCode Stats" width="460" />
+  <a href="https://leetcode.com/u/Shubham_jain_017x/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Shubham_jain_017x?theme=dark&font=JetBrains%20Mono&ext=activity" alt="Shubham's LeetCode Stats" width="460" />
   </a>
 </p>
 
@@ -74,10 +74,10 @@ I am a 3rd-year undergraduate student at **GLA University** (CPI 8.7) and spent 
 ### 📬 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/shubhamjain17r" target="_blank">
+  <a href="https://www.linkedin.com/in/shubham-jain-017x/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/ShubhamJain17r" target="_blank">
+  <a href="https://leetcode.com/u/Shubham_jain_017x/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="mailto:shubhamjain00050@gmail.com">
